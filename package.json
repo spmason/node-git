@@ -1,0 +1,6 @@
+{
+	"name": "git",
+	"version": "0.0.3",
+	"directories": {"lib": "./lib"},
+	"main": "./lib/git"
+}
